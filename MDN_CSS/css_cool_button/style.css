@@ -1,0 +1,26 @@
+    
+html {
+    font-family: sans-serif;
+  }
+  
+  /* Your CSS below here */
+
+  p {
+    width: 250px;
+    height: 100%;
+    padding: 40px;
+    border: solid 2px darkblue;
+    background-color: blue;
+    color: blue;
+    text-shadow: 5px 5px 6px black;
+    text-align: center;
+    font-size: 1.5rem;
+    border-radius: 10px;
+
+    /*VARJOEFEKETII*/
+
+    background-image: linear-gradient(to bottom right, rgba(0,0,0,0.0), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2));
+    box-shadow: 4px 4px 4px black,
+                inset 4px 4px 4px rgba(255,255,255, 0.5),
+                inset -2px -2px 8px rgba(0,0,0, 0.3);
+  }

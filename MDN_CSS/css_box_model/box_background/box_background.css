@@ -1,0 +1,52 @@
+.first p {
+    font-family: sans-serif;
+    padding: 20px;
+    /* background properties */
+    background-color: yellow;
+  }
+
+.second p {
+    
+        font-family: sans-serif;
+        padding: 20px;
+        /* background properties */
+        background-color: yellow;
+        background-image: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png);
+      
+}
+
+.third p {
+    
+    font-family: sans-serif;
+    padding: 20px;
+    /* background properties */
+    background-color: yellow;
+    background-image: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png);
+    background-repeat: no-repeat;
+}
+
+.fourth p {
+    
+    font-family: sans-serif;
+    padding: 20px;
+    /* background properties */
+    background-color: yellow;
+    background-image: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png);
+    background-repeat: no-repeat;
+    background-position: 99% center;
+}
+
+.fifth p {
+    font-family: sans-serif;
+    padding: 20px;
+    /* background properties */
+    background-color: yellow;
+    background-image: linear-gradient(to bottom, yellow, #dddd00 50%, rgb(71, 48, 4));
+  }
+
+.sixth p {
+    font-family: sans-serif;
+    padding: 20px;
+    background: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png) no-repeat 99% center,
+    linear-gradient(to bottom, yellow, #dddd00 50%, orange);
+}
